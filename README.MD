@@ -1,5 +1,5 @@
 # Live Demo on Heroku:
-[nodejs-shopping-cart.herokuapp.com](https://nodejs-shopping-cart.herokuapp.com/)
+[nodejs-shopping-cart.herokuapp.com](https://nodejsshopping-cart.herokuapp.com/)
 
 ### Run Locally on Your Machine
 You need Node, NPM and MongoDB properly installed.
